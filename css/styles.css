@@ -135,3 +135,21 @@ p{
     position: static;
   }
 }
+
+#cta{
+  text-align: center;
+  background-color:#ff4c68;
+  color: #fff;
+  padding:5% 10%;
+}
+
+#footer{
+  padding: 5% 5%;
+  text-align: center;
+  background-color: #fff;
+
+}
+
+.foot{
+  margin: 20px 10px ;
+}
